@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/go-pay/gopay"
+	"github.com/w6xian/gopay"
 )
 
 // 小程序退回开发 alipay.open.mini.version.audited.cancel

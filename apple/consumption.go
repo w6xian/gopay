@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/go-pay/gopay"
+	"github.com/w6xian/gopay"
 )
 
 // SendConsumptionInformation Send Consumption Information

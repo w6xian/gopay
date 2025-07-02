@@ -4,9 +4,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-pay/gopay"
 	"github.com/go-pay/util"
 	"github.com/go-pay/xlog"
+	"github.com/w6xian/gopay"
 )
 
 func TestClient_EntrustPublic(t *testing.T) {

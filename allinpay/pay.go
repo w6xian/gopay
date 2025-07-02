@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/go-pay/gopay"
+	"github.com/w6xian/gopay"
 )
 
 // Pay 统一支付接口 https://aipboss.allinpay.com/know/devhelp/main.php?pid=15#mid=88

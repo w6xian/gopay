@@ -5,7 +5,7 @@ import (
 
 	"github.com/go-pay/xlog"
 
-	"github.com/go-pay/gopay"
+	"github.com/w6xian/gopay"
 )
 
 func TestAddTrackingNumber(t *testing.T) {

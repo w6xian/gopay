@@ -16,9 +16,9 @@ import (
 	xaes "github.com/go-pay/crypto/aes"
 	"github.com/go-pay/crypto/xpem"
 	"github.com/go-pay/crypto/xrsa"
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/xhttp"
 	"github.com/go-pay/xtime"
+	"github.com/w6xian/gopay"
+	"github.com/w6xian/gopay/pkg/xhttp"
 )
 
 // 格式化请求URL参数

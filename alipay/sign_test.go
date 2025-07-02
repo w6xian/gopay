@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	"github.com/go-pay/crypto/xrsa"
-	"github.com/go-pay/gopay"
 	"github.com/go-pay/xlog"
+	"github.com/w6xian/gopay"
 )
 
 func TestSyncVerifySign(t *testing.T) {

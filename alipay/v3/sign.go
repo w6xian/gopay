@@ -11,9 +11,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/go-pay/gopay"
 	"github.com/go-pay/util"
 	"github.com/go-pay/util/convert"
+	"github.com/w6xian/gopay"
 )
 
 // v3 鉴权请求 Authorization Header

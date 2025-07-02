@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/go-pay/gopay"
+	"github.com/w6xian/gopay"
 )
 
 // datadigital.fincloud.generalsaas.face.verification.initialize(人脸核身初始化)

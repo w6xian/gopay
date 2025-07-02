@@ -3,10 +3,10 @@ package wechat
 import (
 	"context"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/wechat"
 	"github.com/go-pay/util"
 	"github.com/go-pay/xlog"
+	"github.com/w6xian/gopay"
+	"github.com/w6xian/gopay/wechat"
 )
 
 var ctx = context.Background()

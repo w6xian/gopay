@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/go-pay/gopay"
+	"github.com/w6xian/gopay"
 )
 
 func TestClient_InvoiceCreate(t *testing.T) {

@@ -14,9 +14,9 @@ import (
 
 	"github.com/go-pay/crypto/xpem"
 	"github.com/go-pay/crypto/xrsa"
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/xhttp"
 	"github.com/go-pay/util"
+	"github.com/w6xian/gopay"
+	"github.com/w6xian/gopay/pkg/xhttp"
 )
 
 type Client struct {

@@ -7,9 +7,9 @@ import (
 
 	"github.com/go-pay/crypto/xpem"
 	"github.com/go-pay/crypto/xrsa"
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/xhttp"
 	"github.com/go-pay/xlog"
+	"github.com/w6xian/gopay"
+	"github.com/w6xian/gopay/pkg/xhttp"
 )
 
 // ClientV3 支付宝 V3

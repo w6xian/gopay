@@ -4,9 +4,9 @@ import (
 	"crypto/rsa"
 	"errors"
 	"fmt"
-	"github.com/go-pay/gopay"
 	"github.com/go-pay/util/js"
 	"github.com/go-pay/xlog"
+	"github.com/w6xian/gopay"
 	"io"
 	"net/http"
 )

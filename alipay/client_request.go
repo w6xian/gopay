@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/xhttp"
 	"github.com/go-pay/xtime"
+	"github.com/w6xian/gopay"
+	"github.com/w6xian/gopay/pkg/xhttp"
 )
 
 // PostAliPayAPISelfV2 支付宝接口自行实现方法

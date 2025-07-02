@@ -7,9 +7,9 @@ import (
 	"testing"
 
 	"github.com/go-pay/crypto/xrsa"
-	"github.com/go-pay/gopay"
 	"github.com/go-pay/util"
 	"github.com/go-pay/xlog"
+	"github.com/w6xian/gopay"
 )
 
 func TestClient_Transfer(t *testing.T) {

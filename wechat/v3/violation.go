@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/go-pay/gopay"
 	"github.com/go-pay/util/js"
+	"github.com/w6xian/gopay"
 )
 
 // 创建商户违规通知回调地址API

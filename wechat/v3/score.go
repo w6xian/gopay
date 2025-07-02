@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/go-pay/gopay"
 	"github.com/go-pay/util/js"
+	"github.com/w6xian/gopay"
 )
 
 // 创单结单合并API

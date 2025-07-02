@@ -14,9 +14,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/go-pay/gopay"
 	"github.com/go-pay/util"
 	"github.com/go-pay/util/convert"
+	"github.com/w6xian/gopay"
 )
 
 // 推荐直接开启自动同步验签功能

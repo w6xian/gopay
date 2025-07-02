@@ -7,7 +7,7 @@ import (
 	"github.com/go-pay/util/js"
 	"net/http"
 
-	"github.com/go-pay/gopay"
+	"github.com/w6xian/gopay"
 )
 
 // 建立合作关系

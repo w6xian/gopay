@@ -21,7 +21,7 @@ import (
 
 	"github.com/go-pay/crypto/xpem"
 	"github.com/go-pay/crypto/xrsa"
-	"github.com/go-pay/gopay"
+	"github.com/w6xian/gopay"
 )
 
 // 允许进行 sn 提取的证书签名算法

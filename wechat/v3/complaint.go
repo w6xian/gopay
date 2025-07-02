@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/go-pay/gopay"
 	"github.com/go-pay/util/js"
+	"github.com/w6xian/gopay"
 )
 
 // 创建投诉通知回调地址API

@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/go-pay/gopay"
 	"github.com/go-pay/xtime"
+	"github.com/w6xian/gopay"
 )
 
 // 统一收单交易支付接口 alipay.trade.pay

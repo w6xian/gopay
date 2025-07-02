@@ -9,9 +9,9 @@ import (
 	"time"
 
 	"github.com/go-pay/crypto/aes"
-	"github.com/go-pay/gopay"
-	"github.com/go-pay/gopay/pkg/xhttp"
 	"github.com/go-pay/util"
+	"github.com/w6xian/gopay"
+	"github.com/w6xian/gopay/pkg/xhttp"
 )
 
 var defaultRequestIdFunc = &requestIdFunc{}

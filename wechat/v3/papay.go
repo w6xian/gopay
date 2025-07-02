@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/go-pay/gopay"
 	"github.com/go-pay/util/js"
+	"github.com/w6xian/gopay"
 )
 
 // 预扣费通知API

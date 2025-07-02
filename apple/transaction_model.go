@@ -3,7 +3,7 @@ package apple
 import (
 	"fmt"
 
-	"github.com/go-pay/gopay/pkg/jwt"
+	"github.com/w6xian/gopay/pkg/jwt"
 )
 
 type SignedTransaction string
@@ -40,7 +40,7 @@ type TransactionsItem struct {
 	PurchaseDate                int64  `json:"purchaseDate"`
 	Quantity                    int    `json:"quantity"`
 	RevocationDate              int64  `json:"revocationDate"`
-	RevocationReason            int `json:"revocationReason"`
+	RevocationReason            int    `json:"revocationReason"`
 	SignedDate                  int64  `json:"signedDate"`
 	Storefront                  string `json:"storefront"`
 	StorefrontId                string `json:"storefrontId"`

@@ -9,7 +9,7 @@ import (
 
 	"github.com/go-pay/util/js"
 
-	"github.com/go-pay/gopay"
+	"github.com/w6xian/gopay"
 )
 
 // APP下单
