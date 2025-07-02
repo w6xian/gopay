@@ -35,6 +35,7 @@ const (
 	v3ApiNative                  = "/v3/pay/transactions/native"                // Native 下单
 	v3ApiH5                      = "/v3/pay/transactions/h5"                    // H5 下单
 	v3ApiQueryOrderTransactionId = "/v3/pay/transactions/id/%s"                 // transaction_id 微信支付订单号查询订单
+	v3ApiCodepay                 = "/v3/pay/transactions/codepay"               // codepay 付款码支付
 	v3ApiQueryOrderOutTradeNo    = "/v3/pay/transactions/out-trade-no/%s"       // out_trade_no 商户订单号查询订单
 	v3ApiCloseOrder              = "/v3/pay/transactions/out-trade-no/%s/close" // out_trade_no 关闭订单
 
